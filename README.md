@@ -116,3 +116,4 @@ s.send("acknowledgement recived from the server".encode())
 
 Thus the study on Client Server Chat Applications has been performed
 
+](https://github.com/priyankaarrr/ChatStudy/assets/147475464/8872bc82-fd03-4770-a04a-0f828a913912)
